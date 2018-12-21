@@ -30,7 +30,7 @@
         "protocol_param": "#",
         "obfs": "http_simple",
         "obfs_param": ""
-    }
+    },
     "8080": {
         "passwd": "f-ya.cn",
         "method": "none",
