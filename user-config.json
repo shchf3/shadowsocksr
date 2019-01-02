@@ -20,7 +20,7 @@
         "method": "none",
         "protocol": "auth_chain_a",
         "protocol_param": "#",
-        "obfs": "http_simple",
+        "obfs": "http_simple_compatible",
         "obfs_param": ""
     },
     "80": {
